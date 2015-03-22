@@ -1,5 +1,5 @@
 
-final static int ROCK = 1, SCISSOR = 2, PAPER = 3;
+Public Class RPS {
     public static void main(String[] args)
     {
         Scanner scan = new Scanner(System.in);
@@ -34,3 +34,4 @@ final static int ROCK = 1, SCISSOR = 2, PAPER = 3;
             }
         }
     }
+}
